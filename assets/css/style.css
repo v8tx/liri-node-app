@@ -1,0 +1,24 @@
+body {
+	background: #ebebeb;
+	margin: 0 auto;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	padding: 0;
+}
+.jumbotron {
+	margin-top: 20px;
+	background: #070A30; 
+	color: #fff;
+}
+h1 {
+	font-weight: bold;
+	margin: 0;
+	text-align: center;
+}
+h3.panel-title {
+	color: #acacac;
+}
+p {
+	line-height: 215%;
+	font-weight: bold;			
+}
+
