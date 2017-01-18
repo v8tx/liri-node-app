@@ -1,6 +1,3 @@
-// Here we include the weather-js so we can use it in our Node application.
-var twitterKeys = require("keys.js");
-
 //ext files and dependencies
 var keys = require('./keys.js');
 var OAuth = require('OAuth');
