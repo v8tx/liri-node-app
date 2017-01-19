@@ -1,0 +1,5 @@
+[32mFETCHING TWEETS[39m
+Thu Jan 12 04:20:49 +0000 2017
+[34mI need to have several tweets available for my project to work correctly.[39m
+Thu Jan 12 04:20:27 +0000 2017
+[34mI am tweeting to finish my Liri-Node.js App[39m
