@@ -39,7 +39,7 @@ function main() {
     if (!optParam) {
         if (command === "my-tweets") {
             print("FETCHING TWEETS".green);
-            tweetify("https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=weatherfordtech&count=20");
+            tweetify("https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=v_lotus8&count=20");
         } else if (command === "do-what-it-says") {
             openFile();
         } else if (command === "spotify-this-song") {

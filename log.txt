@@ -3,3 +3,261 @@ Thu Jan 12 04:20:49 +0000 2017
 [34mI need to have several tweets available for my project to work correctly.[39m
 Thu Jan 12 04:20:27 +0000 2017
 [34mI am tweeting to finish my Liri-Node.js App[39m
+[32mFETCHING TWEETS[39m
+Thu Jan 12 04:20:49 +0000 2017
+[34mI need to have several tweets available for my project to work correctly.[39m
+Thu Jan 12 04:20:27 +0000 2017
+[34mI am tweeting to finish my Liri-Node.js App[39m
+[32mFETCHING TWEETS[39m
+Fri Sep 23 17:50:40 +0000 2016
+[34mThis pic is so perfect! Thanks for being such a badass, #ediewindsor! #LWTSUMMIT https://t.co/EfCt889ObQ[39m
+Fri Sep 23 15:17:32 +0000 2016
+[34m#lezbro #LWTSUMMIT https://t.co/HocrusJmie[39m
+Wed Sep 21 18:53:29 +0000 2016
+[34mRT @lesbiantech: "If your actions inspire others to dream more, learn more, do more and become more, you are a leader." #LWTSUMMIT #joinus…[39m
+Thu Jul 30 23:30:34 +0000 2015
+[34m@bahiaaventuras video from our tour on sunday, july 26. it was a mama and her calf! too cool! https://t.co/W1pSFB5ZuU http://t.co/t85vQK3iPG[39m
+Fri Jul 17 15:48:51 +0000 2015
+[34mtook in the sunset yesterday with @Austin_Cobra before I dropped it off at Lowe's. r.i.p. buddy http://t.co/Iq6ZQimUSs[39m
+Tue Mar 17 00:04:14 +0000 2015
+[34mVeronica Diaz is inventive, friendly, and outgoing. See your personality. http://t.co/Uc0wPxDzkt #fivelabs via @five[39m
+Tue Mar 17 00:00:32 +0000 2015
+[34mRT @csaintamant: Key to Netflix’s success? Treat employees like adults. Sounds so simple, but so few companies take this approach: http://t…[39m
+Mon Mar 16 17:32:31 +0000 2015
+[34mRT @joinme: Stop by the Peached Tortilla truck during SXSW for a free taco lunch on us! https://t.co/TvbVFw01rB[39m
+Mon Mar 16 15:44:52 +0000 2015
+[34mAt the drupal 8 workshop at sxsw interactive! http://t.co/u62v81WCcd[39m
+[32mLooking For Song...[39m
+0.
+Artists: [32mAdele[39m
+Song Name: [34mhello[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=null[39m
+Album: Hello
+
+
+1.
+Artists: [32mAdele[39m
+Song Name: [34mhello[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=null[39m
+Album: 25
+
+
+2.
+Artists: [32mJ. Cole[39m
+Song Name: [34mhello[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/4b3df43120daf5eea2b2a21502fe2b359ec17d4f?cid=null[39m
+Album: 2014 Forest Hills Drive
+
+
+3.
+Artists: [32mKarol G[39m
+Song Name: [34mhello[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/d940adfb296ccc4a275078e1b1a921da097ba0fc?cid=null[39m
+Album: Hello
+
+
+4.
+Artists: [32mOMFG[39m
+Song Name: [34mhello[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/9a7358499d83ba55d6fc961576ace6a8aeb96180?cid=null[39m
+Album: Hello
+
+
+5.
+Artists: [32mJ. Cole[39m
+Song Name: [34mhello[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/d13c6009e6585b98e2c3d473b4413162a0ddd87d?cid=null[39m
+Album: Forest Hills Drive: Live from Fayetteville, NC
+
+
+6.
+Artists: [32mZooey Deschanel[39m
+Song Name: [34mhello[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/3c1802d9bb1e80348da770f1c38d2e63b7a2e5c6?cid=null[39m
+Album: TROLLS (Original Motion Picture Soundtrack)
+
+
+7.
+Artists: [32mErykah Badu[39m
+Song Name: [34mhello[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/d1b6b2b9eb6c0db9189bcf5221e9053af34398b6?cid=null[39m
+Album: But You Caint Use My Phone (Mixtape)
+
+
+8.
+Artists: [32mCL[39m
+Song Name: [34mhello[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/a6f622422822188dca0ad53b634a11d26920f774?cid=null[39m
+Album: Hello Bitches
+
+
+9.
+Artists: [32mFlo Rida[39m
+Song Name: [34mhello[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/9d4a765a30fc6d12f8da222a6d5b9fd0fbe04967?cid=null[39m
+Album: Hello Friday (feat. Jason Derulo)
+
+
+[32mLooking For Movie...[39m
+Rocky
+1976
+PG
+USA
+English
+Rocky Balboa, a small-time boxer, gets a supremely rare chance to fight heavy-weight champion Apollo Creed in a bout in which he strives to go the distance for his self-respect.
+Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers
+8.4%
+http://www.rottentomatoes.com/m/1017776-rocky/
+[32mLooking For Movie...[39m
+Mr. Nobody
+2009
+R
+Belgium, Germany, Canada, France
+English, Mohawk
+A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+6.6%
+http://www.rottentomatoes.com/m/mr-nobody/
+[32mRunning Open File...[39m
+[32mLooking For Song...[39m
+0.
+Artists: [32mBackstreet Boys[39m
+Song Name: [34m"I Want it That Way"[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null[39m
+Album: The Hits--Chapter One
+
+
+1.
+Artists: [32mBackstreet Boys[39m
+Song Name: [34m"I Want it That Way"[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=null[39m
+Album: Millennium
+
+
+2.
+Artists: [32mBackstreet Boys[39m
+Song Name: [34m"I Want it That Way"[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=null[39m
+Album: 90 Sweet 90s Hits!
+
+
+3.
+Artists: [32mBackstreet Boys[39m
+Song Name: [34m"I Want it That Way"[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=null[39m
+Album: The Essential Backstreet Boys
+
+
+4.
+Artists: [32mBrittany Howard[39m
+Song Name: [34m"I Want it That Way"[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/46c088f198268278c8498768e50f1423459b2ed7?cid=null[39m
+Album: I Want It That Way
+
+
+5.
+Artists: [32mGlee Cast[39m
+Song Name: [34m"I Want it That Way"[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=null[39m
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+
+
+6.
+Artists: [32mAnthem Lights[39m
+Song Name: [34m"I Want it That Way"[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=null[39m
+Album: Covers Part IV
+
+
+7.
+Artists: [32mBoyce Avenue[39m
+Song Name: [34m"I Want it That Way"[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=null[39m
+Album: New Acoustic Sessions, Vol. 3
+
+
+8.
+Artists: [32mDynamite Boy[39m
+Song Name: [34m"I Want it That Way"[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/9d2f9eac900740ab86cd2bbb67872bf3440787db?cid=null[39m
+Album: Punk Goes Pop
+
+
+9.
+Artists: [32m"Weird Al" Yankovic[39m
+Song Name: [34m"I Want it That Way"[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=null[39m
+Album: The Essential Weird Al Yankovic
+
+
+[32mLooking For Song...[39m
+0.
+Artists: [32mTy Dolla $ign[39m
+Song Name: [34mThe Sign[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null[39m
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+
+
+1.
+Artists: [32mAce of Base[39m
+Song Name: [34mThe Sign[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null[39m
+Album: The Sign (US Album) [Remastered]
+
+
+2.
+Artists: [32mChance The Rapper[39m
+Song Name: [34mThe Sign[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=null[39m
+Album: Coloring Book
+
+
+3.
+Artists: [32mThe Americanos[39m
+Song Name: [34mThe Sign[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/debdbfec32744181f24c2c57b567db36d987cc9f?cid=null[39m
+Album: In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+
+
+4.
+Artists: [32mJuicy J[39m
+Song Name: [34mThe Sign[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=null[39m
+Album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+
+
+5.
+Artists: [32mAce of Base[39m
+Song Name: [34mThe Sign[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=null[39m
+Album: Greatest Hits
+
+
+6.
+Artists: [32mTy Dolla $ign[39m
+Song Name: [34mThe Sign[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/e5c3f24261752767005a5d10ae251f3a52e84319?cid=null[39m
+Album: Blasé (feat. Future & Rae Sremmurd) [Remixes]
+
+
+7.
+Artists: [32mSam Amidon[39m
+Song Name: [34mThe Sign[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/98373118af9f82766f98ce75a04292aa414342cf?cid=null[39m
+Album: I See The Sign
+
+
+8.
+Artists: [32mThe Barden Bellas[39m
+Song Name: [34mThe Sign[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/755c42adce0ac49733a74301eaa92c4a698cac43?cid=null[39m
+Album: Pitch Perfect Soundtrack
+
+
+9.
+Artists: [32mAce of Base[39m
+Song Name: [34mThe Sign[39m
+Preview: [90mhttps://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=null[39m
+Album: The Sign (US Album) [Remastered]
+
+
